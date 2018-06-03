@@ -1,0 +1,14 @@
+#content{
+  width: calc(100% - 300px);
+}
+
+.Content {
+  margin-top: -98px;
+  margin-left: 350px;
+  padding: 10px;
+  }
+
+  .section {s
+ 	display: box;
+  box-orient: horizontal;
+}

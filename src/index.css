@@ -1,0 +1,26 @@
+body {
+	background:#FBFCFC ;
+	margin:-8;
+	padding: -8px;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: contain;
+
+}
+
+
+.LANGUAGES-TECHNOLOGIES {
+   width: 5px;
+  height: 17px;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 100;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 5;
+  letter-spacing: 5px;
+  text-align: center;
+  color: #020202;
+  color: var(--black-two);
+}

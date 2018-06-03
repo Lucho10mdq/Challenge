@@ -1,0 +1,138 @@
+.Menu{
+		 font-size: 20px;
+    	color:white;
+   		 position: relative;
+   		 font-weight: 50;
+   		 margin: 5px ;
+}
+
+.RadioButton
+{
+		 font-size: 18px;
+    	color:white;
+   		 position: relative;
+   		 font-weight: 50;
+   		 margin: 5px ;
+}
+
+
+.TituloFilter
+{
+	 font-size: 19px;
+    	color:white;
+   		 position: relative;
+   		 font-weight: 50;
+   		 margin: 5px ;
+}
+.Vertical
+{
+	background:#000;
+	/*padding: 10%;*/
+	margin-right: 150%;
+
+}
+
+.navbar-fixed-left{
+	width:220px;
+	position:fixed;
+	border-radius:0;
+	height:100%;
+}
+
+
+:root {
+  --black: #313131;
+  --black-two: #020202;
+}
+
+/* Text styles */
+.Text-Style {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.Text-Style-2 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #f8f8f8;
+
+}
+
+
+.DEV-NAME {
+  width: 116px;
+  height: 17px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.DNI-XXXXXXXX {
+  width: 132px;
+  height: 13px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.XX-YEARS-OLD {
+  width: 121px;
+  height: 13px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.background {
+  width: 300px;
+  height: 135px;
+}
+
+.Filter-by {
+  width: 63px;
+  height: 18px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #f8f8f8;
+}
+.ButtonBack
+{
+	 background-color:#5E5D5D;
+}
